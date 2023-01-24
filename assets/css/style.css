@@ -12,16 +12,22 @@
 body {
     font-family: lato, sans-serif;
     font-weight: 300;
-    color: #3a3a3a;
+    color: #f56f2d;
+    background-color: rgb(15, 44, 80);
 }
 
 h1, h2 {
   font-family: Oswald, sans-serif;
   text-transform: uppercase;
   letter-spacing: 4px;
-  color: #f75718;
+  color: #f56f2d;
 }
 
+<--!test
+#bg_col {
+  background-color: rgb(15, 44, 80);
+}
+-->
 #logo {
   float: left;
   font-size: 280%;
@@ -31,7 +37,7 @@ h1, h2 {
 #menu {
   font-size: 110%;
   letter-spacing: 4px;
-  color: #f75718;
+  color: #efde1f;
 }
 
 #menu, #logo {
