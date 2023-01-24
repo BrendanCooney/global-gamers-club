@@ -20,14 +20,9 @@ h1, h2 {
   font-family: Oswald, sans-serif;
   text-transform: uppercase;
   letter-spacing: 4px;
-  color: #f56f2d;
+  color: #f5702e;
 }
 
-<--!test
-#bg_col {
-  background-color: rgb(15, 44, 80);
-}
--->
 #logo {
   float: left;
   font-size: 280%;
@@ -37,7 +32,7 @@ h1, h2 {
 #menu {
   font-size: 110%;
   letter-spacing: 4px;
-  color: #efde1f;
+  color: #f5702e;
 }
 
 #menu, #logo {
@@ -56,11 +51,11 @@ h1, h2 {
 }
 
 #menu a:hover {
-  border-bottom: 1px solid #3a3a3a; 
+  border-bottom: 1px solid white; 
 }
 
 .active {
-  border-bottom: 1px solid #3a3a3a;
+  border-bottom: 1px solid white;
 }
 
 #hero-outer {
@@ -108,7 +103,7 @@ h1, h2 {
   padding-top: 40px;
   padding-left: 10px;
 
-  background-color: rgba(61, 21, 171, 0.7);
+  background-color: rgba(21, 24, 152, 0.7);
 
   bottom: 30px;
   right: 150px;
@@ -139,7 +134,7 @@ h1, h2 {
 }
 
 hr {
-  border-top: 1px solid #3a3a3a;
+  border-top: 1px solid  #f5702e;
   width: 100%;
   margin: 5px 0;
 }
@@ -209,7 +204,7 @@ border-radius: 50%;
   float: left;
   padding: 30px 0 0 10px;
   text-align: center;
-  border: 2px solid white;
+  border: 2px solid #f5702e;
   box-sizing: border-box;
 }
 
@@ -235,7 +230,7 @@ footer {
   font-size: 160%;
   margin: 1%;
   padding: 5%;
-  color: #3a3a3a;
+  color: #f5702e;
 }
 
 /* Gallery */
