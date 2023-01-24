@@ -1,141 +1,84 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
+
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Global Gamers Club for Gamers Around the World, Global">
-    <meta name="keywords" content="love gamaing, gamathons, world, international, minecraft, roblox, fortnite">
+    <meta name="description" content="Love Running club for runners in Dublin, Ireland. Urban running, trail running, Dublin docklands and phoenix park.">
+    <meta name="keywords" content="love running, run, running club, runners, ireland, dublin, sport, exercise">
+    <title>Global Gamers Club</title>
+
+    <!-- Stylesheet -->
     <link rel="stylesheet" href="assets/css/style.css">
-        <title>Global Gamers club</title>
 </head>
+
 <body>
     <header>
         <a href="index.html">
+            
             <h1 id="logo">Global Gamers Club <i class="fa-solid fa-globe"></i></h1>
         </a>
         <nav>
-          <ul id="menu">
-            <li>
-                <a href="sign-up.html">Sign Up</a>
-            </li>
-            <li>
-                <a href="gallery.html">Gallery</a>
-            </li>
-            <li>
-                <a href="index.html" class="active">Home</a>
-            </li>
-          </ul>  
+            <ul id="menu">
+                <li>
+                    <a class="active" href="signup.html">Sign Up</a>
+                </li>
+                <li>
+                    <a href="gallery.html">Gallery</a>
+                </li>
+
+                <li>
+                    <a href="index.html">Home</a>
+                </li>
+            </ul>
         </nav>
     </header>
-    <section id="hero-outer">
-        <div id="hero-image"></div>
-        <div id="cover-text">
-            <h2>Global Gamers Club</h2>
-            <h3>Gaming around the World</h3>
-        </div>
-    </section>
-    <section id="club-ethos">
-        <h2 id="welcome">Reasons To Join Us?</h2>
-        <div id="left-about">
-            <div class="left-about-heading">
-                <h2>We Love Gaming<i class="fa-solid fa-heart-pulse"></i></h2>
-                <hr>
-                <p>
-                    Since it improves aerobic fitness, running is a great way to help improve your cardiovascular
-                    health. Plus, it burns calories and can build strength.
-                </p>
-            </div>
-            <div class="left-about-heading">
-                <h2>All Ages Welcome<i class="fa-brands fa-fly"></i></h2>
-                <hr>
-                <p>
-                    Physical exercise, running included, is known to release endorphins in the brain. Endorphins make
-                    you more energetic, more awake and, yes, happier.
-                </p>
-            </div>
-        </div>
-        <div id="right-about">
-            <div class="right-about-heading">
-                <h2>Make Friends <i class="fa-solid fa-globe"></i></h2>
-                <hr>
-                <p>
-                    When we run with others, we can run farther and faster more easily. Social running can pull you out
-                    of a running funk or low mood, inspire you to try new events.
-                </p>
-            </div>
-            <div class="right-about-heading">
-                <h2>Master Gamimg <i class="fa-solid fa-dumbbell"></i></h2>
-                <hr>
-                <p>
-                    Running strengthens your heart by pumping blood more effectively through your body.
-                </p>
-            </div>
-        </div>
-        <div id="center-about">
-            <div id="circle-container">
-                <div id="circle-cover-bg">
-
+    <section class="form-section">
+        <form class= "signup-form" action="https://formdump.codeinstitute.net/" method="POST">
+            <h2>Let's get you signed up! </h2>
+		  
+		        <fieldset>
+		        <div class="text-input">
+		         <label for="fname">First Name</label>
+			<input id="fname" type="text" name="first_name" required>
                 </div>
-            </div>
-        </div>
+                <div class="text-input">
+			    <label for="lname">Last Name</label>
+			<input id="lname" type="text" name="last_name" required>
+			    </div>
+			    <div class="text-input">
+			    <label for="email">Email Address</label>
+			<input id="email" type="email" name="email_address" required>
+			</div>
+	     	</fieldset>
+
+		
+		<fieldset>
+			<input id="road" name="running_preference" value="road" type="radio" required>
+			<label for="road">Road</label>
+
+			<input id="trail" name="running_preference" value="trail" type="radio" required>
+			<label for="trail">Trail</label>
+
+			<input id="both" name="running_preference" value="both" type="radio" required>
+			<label for="both">Both</label>
+		</fieldset>
+		
+		<input type="submit" value="Let's Run!" class="join-button">
+
+	</form>
     </section>
-    <section id="times">
-       <div>
-        <h2>Urban <i class="fa-solid fa-city"></i></h2>
-        <h3>Monday</h3>
-        <h3>5K</h3>
-        <h3>The Marker Hotel</h3>
-        <h3>18:30</h3>
-       </div>
-       <div>
-        <h2>Trail <i class="fa-solid fa-tree"></i></h2>
-        <h3>Wednesday</h3>
-        <h3>10K</h3>
-        <h3>Phoenix Park</h3>
-        <h3>18:30</h3>
-       </div>
-       <div>
-        <h2>Urban <i class="fa-solid fa-city"></i></h2>
-        <h3>Friday</h3>
-        <h3>5K</h3>
-        <h3>The Marker Hotel</h3>
-        <h3>18:30</h3>
-       </div>
-       <div>
-        <h2>Trail <i class="fa-solid fa-tree"></i></h2>
-        <h3>Saturday</h3>
-        <h3>10K</h3>
-        <h3>Phoenix Park</h3>
-        <h3>09:30</h3>
-       </div>
-       <div>
-        <h2>Coffee<i class="fa-solid fa-mug-hot"></i></h2>
-        <h3>Saturday</h3>
-        <h3>10K</h3>
-        <h3>The Marker Hotel</h3>
-        <h3>11:30</h3>
-       </div>
-    </section>
-    <footer> <ul class="social-networks">
-        <li>
-            <a href="https://facebook.com" target="_blank" rel="noopener"
-                aria-label="Visit our Facebook page (opens in a new tab)"><i class="fab fa-facebook"></i></a>
-        </li>
-        <li>
-            <a href="https://twitter.com" target="_blank" rel="noopener"
-                aria-label="Visit our Twitter page (opens in a new tab)"><i class="fab fa-twitter-square"></i></a>
-        </li>
-        <li>
-            <a href="https://youtube.com" target="_blank" rel="noopener"
-                aria-label="Visit our YouTube page (opens in a new tab)"><i class="fab fa-youtube-square"></i></a>
-        </li>
-        <li>
-            <a href="https://instagram.com" target="_blank" rel="noopener"
-                aria-label="Visit our Instagram page (opens in a new tab)"><i class="fab fa-instagram"></i></a>
-        </li>
-    </ul></footer>
-    <!--Font Awesome Script-->
-    <script src="https://kit.fontawesome.com/56ebc553e5.js" crossorigin="anonymous"></script>
+    <footer>
+        <ul class="social-networks">
+            <li><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook"></i></a></li>
+            <li><a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter-square"></i></a></li>
+            <li><a href="https://www.youtube.com" target="_blank"><i class="fab fa-youtube"></i></a></li>
+            <li><a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a></li>
+        </ul>
+    </footer>
+
+    <!-- Font awesome script -->
+    <script src="https://kit.fontawesome.com/b83175b9a4.js" crossorigin="anonymous"></script>
 </body>
+
 </html>
