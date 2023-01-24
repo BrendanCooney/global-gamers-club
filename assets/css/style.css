@@ -328,3 +328,9 @@ footer {
       column-count: 2;
   }
 }
+
+.float_left {
+  padding-top: 30px;
+  width: 33%;
+  float: left;
+}
