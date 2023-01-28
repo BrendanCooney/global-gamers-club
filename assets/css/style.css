@@ -52,6 +52,7 @@ h1, h2 {
 
 #menu a:hover {
   border-bottom: 1px solid white; 
+  color: white;
 }
 
 .active {
@@ -105,8 +106,8 @@ h1, h2 {
 
   background-color: rgba(21, 24, 152, 0.7);
 
-  bottom: 30px;
-  right: 150px;
+  top: 30px;
+  left: 150px;
 
   position: absolute;
 }
@@ -234,6 +235,11 @@ footer {
 }
 
 /* Gallery */
+
+.bc-block {
+  float: left;
+  margin-left: 10%;
+}
 
 #photos {
   clear: both;
