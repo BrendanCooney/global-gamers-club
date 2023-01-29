@@ -368,7 +368,7 @@ max-width: 400px;
 float: left;
 padding: 30px 30px 30px 30px;
 top: 30px;
-left: 100px;
+left: 50px;
 position: absolute;
 }
 
@@ -395,7 +395,7 @@ border-radius: 2px;
 
 .join-button {
   margin-top: 20px;
-  border-radius: 2px;
+  border-radius: 20px;
   padding: 15px 32px 15px 32px;
   align-items: center;
   background-color: #f5702e;
