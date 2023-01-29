@@ -370,6 +370,7 @@ padding: 30px 30px 30px 30px;
 top: 30px;
 left: 50px;
 position: absolute;
+border-radius: 20px;
 }
 
 .signup-form h2 {

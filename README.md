@@ -1,6 +1,6 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Thank you to the Code Institute for the opportunity for me to do thi s course. 
+Thank you to the Code Institute for the opportunity for me to do this course. 
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
