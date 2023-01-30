@@ -1,7 +1,7 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 
-## Thank You
+# Thank You
 ------
 Thank you to the Code Institute for the opportunity for me to do this course. 
 Kind regards
