@@ -16,10 +16,6 @@ I have used the Code Institute student template for Gitpod.
 The Global Gamers Club is a fictional club for all gamers who would like to join it from anywhere in the world.
 It is based in Ireland and is based on Irish time or Grenwhich Meantime.
 
-![Alt text](assets/images/Responsive%20Screenshot.png)
-
-
-
 ## Features
 
 * Navigation
@@ -28,7 +24,8 @@ I have used Nav from the Love Running project. It assists the user to choose whi
 * Header
 The Header was taken from th Love Running project and the Images for the Global Gamers Club was taken from Canva. 
 
-![Alt text](assets/images/Home%Top.png)
+![Alt text](https://github.com/BrendanCooney/global-gamers-club/blob/af270597d0b38ac405dd81f2a4932a7e960214b3/readimages/Gallery Top.PNG)
+
 
 * Reasons to join us:
 
