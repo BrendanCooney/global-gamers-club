@@ -20,18 +20,23 @@ It is based in Ireland and is based on Irish time or Grenwhich Meantime.
 
 
 
-
-
-
-
-
-
-**Features**
+## Features
 
 * Navigation
-I have used Nav from Love Running
+I have used Nav from the Love Running project. It assists the user to choose which page they would like to navigate.
 
 * Header
+The Header was taken from th Love Running project and the Images for the Global Gamers Club was taken from Canva. 
+
+![Alt text](assets/images/Home%Top.png)
+
+* Reasons to join us:
+
+This section of the site guides potential members with reasons as to why they may feel that they want to join a global gamersclub.
+
+* Gaming Schedule:
+
+The Gaming Schedule gives a guide of when gamers can go online and expect to see others from the club logged into the respective game. 
 
 * The Gallery 
 
@@ -41,22 +46,35 @@ I have used Nav from Love Running
 
 ------
 
-* Validating
+* Validating:
+Validating for the site has been done by the W3C Html Validator and the W3C CSS Valitador.
+
+* Lighthouse Checks:
+Lighthouse was also used for validation. 
 
 ## Deployment 
 ------
 A Final version has been deployed to Github. Gitpod and Github were used for version control. 
+
+The deployment steps to the branch were followed by the tutorials provided. 
+
+The repository link can be found here:
+
+https://github.com/BrendanCooney/global-gamers-club
+
 
 
 * Credits 
 All credit of the layout concept should go to the code institute team and the Love Running project design. 
 
 * Content 
-I came up with the copy myself and based the content on popular games my children play with their friends in other countries. 
+I came up with the copy myself and based the content on popular games my children play with their friends in other countries.
+
+The code was taken from the love running project as a basic structure. I changed all the copy, pictures and colours to suit the new project.
 
 * Media 
 **Images**
-All images are taken from Canva. I have a pro account and all images are licencensed. 
+All images are taken from Canva. I have a pro account and all images are licencensed. I do think some of the images are too big which slows the page load down. They were all made substantially smaller using paint.net. 
 
 ** Notes for users:
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
