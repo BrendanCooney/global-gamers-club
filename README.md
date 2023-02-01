@@ -24,7 +24,7 @@ I have used Nav from the Love Running project. It assists the user to choose whi
 * Header
 The Header was taken from th Love Running project and the Images for the Global Gamers Club was taken from Canva. 
 
-![Alt text](https://github.com/BrendanCooney/global-gamers-club/blob/af270597d0b38ac405dd81f2a4932a7e960214b3/readimages/Gallery Top.PNG)
+![Header Screenshot](https://github.com/BrendanCooney/global-gamers-club/blob/main/readimages/Gallery%20Top.PNG)
 
 
 * Reasons to join us:
