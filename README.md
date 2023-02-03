@@ -40,8 +40,12 @@ The Gaming Schedule gives a guide of when gamers can go online and expect to see
 ![Gaming Schedule](https://github.com/BrendanCooney/global-gamers-club/blob/main/readimages/Home%20Bottom.PNG)
 
 * The Gallery 
+The gallery consists of images of gamers or our imagined members. These were all resized in order for them to load faster.
+![Gallery images](https://github.com/BrendanCooney/global-gamers-club/blob/main/readimages/Gallery%20Top.PNG)
 
 * The Sign up Form 
+The sign up form is simple asking members for their name and email address this would be used to keep members informed of certain events coming up. 
+![Sign up form](https://github.com/BrendanCooney/global-gamers-club/blob/main/readimages/Sign%20up%20Top.PNG)
 
 ## Testing 
 
