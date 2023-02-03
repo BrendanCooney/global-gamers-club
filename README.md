@@ -37,6 +37,8 @@ This section of the site guides potential members with reasons as to why they ma
 
 The Gaming Schedule gives a guide of when gamers can go online and expect to see others from the club logged into the respective game. 
 
+![Gaming Schedule](https://github.com/BrendanCooney/global-gamers-club/blob/main/readimages/Home%20Bottom.PNG)
+
 * The Gallery 
 
 * The Sign up Form 
