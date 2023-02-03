@@ -64,7 +64,7 @@ Please see tha validations of all pages below
 
 * CSS Validation 
 CSS Validation was tested on https://jigsaw.w3.org/css-validator. 
-![CSS Validation](https://github.com/BrendanCooney/global-gamers-club/blob/main/readimages/CSS%20Validation.PNG)
+![CSS Validation](https://github.com/BrendanCooney/global-gamers-club/blob/main/readimages/CSS%20Validation.PNG) 
 
 * Lighthouse Checks:
 Lighthouse was also used for validation. 
