@@ -95,6 +95,8 @@ I came up with the copy myself and based the content on popular games my childre
 
 The code was taken from the love running project as a basic structure. I changed all the copy, pictures and colours to suit the new project.
 
+W3Schools was extremely helpful for fixing bugs in the project. 
+
 * Media 
 **Images**
 All images are taken from Canva. I have a pro account and all images are licencensed. I do think some of the images are too big which slows the page load down. They were all made substantially smaller using paint.net. 
