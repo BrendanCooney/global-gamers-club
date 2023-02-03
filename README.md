@@ -64,6 +64,8 @@ Unfortunaltely even after making changes to the CSS lines the validation failed.
 * Lighthouse Checks:
 Lighthouse was also used for validation. 
 
+![Lighthouse Desktop](https://github.com/BrendanCooney/global-gamers-club/blob/main/readimages/Lighthouse%20Home.PNG)
+![Lighthouse Mobile](https://github.com/BrendanCooney/global-gamers-club/blob/main/readimages/Lighthouse%20Home.PNG)
 ## Deployment 
 ------
 A Final version has been deployed to Github. Gitpod and Github were used for version control. 
@@ -74,7 +76,8 @@ The repository link can be found here:
 
 https://github.com/BrendanCooney/global-gamers-club
 
-
+The website Link ca be found here: 
+https://brendancooney.github.io/global-gamers-club/index.html
 
 ## Bugs
 I was not sure how to add images or screenshots to my readme file until I found out how onn YouTube. Unfortuantely after making the changes in GitHub I could do no further commits via GitPod all commits since then have been manual.    
