@@ -31,6 +31,8 @@ The Header was taken from th Love Running project and the Images for the Global 
 
 This section of the site guides potential members with reasons as to why they may feel that they want to join a global gamersclub.
 
+![Middle Home Page Screenshot](https://github.com/BrendanCooney/global-gamers-club/blob/main/readimages/Home%20Middle.PNG)
+
 * Gaming Schedule:
 
 The Gaming Schedule gives a guide of when gamers can go online and expect to see others from the club logged into the respective game. 
