@@ -85,7 +85,7 @@ The website Link ca be found here:
 https://brendancooney.github.io/global-gamers-club/index.html
 
 ## Bugs
-I was not sure how to add images or screenshots to my readme file until I found out how onn YouTube. Unfortuantely after making the changes in GitHub I could do no further commits via GitPod all commits since then have been manual.    
+I was not sure how to add images or screenshots to my readme file until I found out how onn YouTube. Unfortuantely after making the changes in GitHub I could do no further commits via GitPod all commits since then have been manual in GitHub.  I hope this does not affect the final grade.  
 
 * Credits 
 All credit of the layout concept should go to the code institute team and the Love Running project design. 
@@ -99,7 +99,3 @@ The code was taken from the love running project as a basic structure. I changed
 **Images**
 All images are taken from Canva. I have a pro account and all images are licencensed. I do think some of the images are too big which slows the page load down. They were all made substantially smaller using paint.net. 
 
-** Notes for users:
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
-
-python3 -m http.server
