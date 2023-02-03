@@ -52,7 +52,14 @@ The sign up form is simple asking members for their name and email address this 
 ------
 
 * Validating:
-Validating for the site has been done by the W3C Html Validator and the W3C CSS Valitador.
+Validating for the site has been done by the W3C Html Validator and the W3C CSS Valitador. Please see tha validations of all pages below
+![Home Page](https://github.com/BrendanCooney/global-gamers-club/blob/main/readimages/Home%20Page%20Validation.PNG)
+![Gallery Page](https://github.com/BrendanCooney/global-gamers-club/blob/main/readimages/Gallery%20Page%20Validation.PNG)
+![Sign Up Page](https://github.com/BrendanCooney/global-gamers-club/blob/main/readimages/Sign%20Up%20Page%20Validation.PNG)
+
+* CSS Validation 
+Unfortunaltely even after making changes to the CSS lines the validation failed. I am not sure why this happened. 
+![CSS Validation](https://github.com/BrendanCooney/global-gamers-club/blob/main/readimages/CSS%20Validation.PNG)
 
 * Lighthouse Checks:
 Lighthouse was also used for validation. 
@@ -68,6 +75,9 @@ The repository link can be found here:
 https://github.com/BrendanCooney/global-gamers-club
 
 
+
+## Bugs
+I was not sure how to add images or screenshots to my readme file until I found out how onn YouTube. Unfortuantely after making the changes in GitHub I could do no further commits via GitPod all commits since then have been manual.    
 
 * Credits 
 All credit of the layout concept should go to the code institute team and the Love Running project design. 
