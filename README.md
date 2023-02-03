@@ -50,15 +50,20 @@ The sign up form is simple asking members for their name and email address this 
 ## Testing 
 
 ------
+I have tested that the website works on Chrome, Edge and Safari. 
+
 
 * Validating:
-Validating for the site has been done by the W3C Html Validator and the W3C CSS Valitador. Please see tha validations of all pages below
+Validating for the site has been done by the W3C Html Validator https://validator.w3.org/ and the W3C CSS Valitador.
+
+Please see tha validations of all pages below
+
 ![Home Page](https://github.com/BrendanCooney/global-gamers-club/blob/main/readimages/Home%20Page%20Validation.PNG)
 ![Gallery Page](https://github.com/BrendanCooney/global-gamers-club/blob/main/readimages/Gallery%20Page%20Validation.PNG)
 ![Sign Up Page](https://github.com/BrendanCooney/global-gamers-club/blob/main/readimages/Sign%20Up%20Page%20Validation.PNG)
 
 * CSS Validation 
-Unfortunaltely even after making changes to the CSS lines the validation failed. I am not sure why this happened. 
+CSS Validation was tested on https://jigsaw.w3.org/css-validator. 
 ![CSS Validation](https://github.com/BrendanCooney/global-gamers-club/blob/main/readimages/CSS%20Validation.PNG)
 
 * Lighthouse Checks:
